@@ -303,8 +303,6 @@ export class DisplayDataComponent implements OnInit {
 	}
 }
 
-
-
 @Component({
 	selector: 'dig-com',
 	templateUrl: './my-dialog.html',
